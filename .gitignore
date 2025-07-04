@@ -1,0 +1,21 @@
+# Python virtual environment
+web/venv/
+
+# Compiled C binary
+playlist
+
+# Uploaded audio files
+web/uploads/
+
+# Playlist persistence file
+playlist.txt
+
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode settings (optional)
+.vscode/ 
